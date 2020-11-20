@@ -19,6 +19,7 @@ Examining the summary statistics, we can see that December still brings very war
 
 -Number of temperature readings below 69 degrees
 ![Number of readings below 69.0](https://github.com/davidfashbinder/surfs_up/blob/main/query1.png)
+
 -Number of temperature readings above 74 degrees 
 ![Number of readings above 74.0](https://github.com/davidfashbinder/surfs_up/blob/main/query2.png)
 
