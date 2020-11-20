@@ -18,9 +18,11 @@ In this analysis, we are examining the key differences between the temperatures 
 Examining the summary statistics, we can see that December still brings very warm weather to Oahu, and the surf and ice cream shop should perform well.  There are colder days, with minimum temperatures in December more than 10% below those in June.  However, these statistics do not account for time of day - it should be expected that most minimum temperatures occur when the sun is down.  We also don't know how frequent the low temperatures occur in December, or how frequently the high ones do.  We can run two additional queries:
 
 -Number of temperature readings below 69 degrees
+
 ![Number of readings below 69.0](https://github.com/davidfashbinder/surfs_up/blob/main/query1.png)
 
 -Number of temperature readings above 74 degrees 
+
 ![Number of readings above 74.0](https://github.com/davidfashbinder/surfs_up/blob/main/query2.png)
 
 
